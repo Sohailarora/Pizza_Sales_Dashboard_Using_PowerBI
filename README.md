@@ -21,6 +21,5 @@ The dashboard is built to give a complete picture of the business's performance.
 **Bottom Performers:** _"The Brie Carre Pizza"_ is identified as the lowest performer across all key metrics, providing a clear signal for potential menu changes or promotions.
 
 Technology Stack
-
 SQL: Used for cleaning, transforming, and analyzing the raw sales data.
 Power BI: Utilized for building the interactive and visually appealing dashboards.
