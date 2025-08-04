@@ -6,4 +6,5 @@ The dashboard is built to give a complete picture of the business's performance.
 
 # Technology Stack
 SQL: Used for cleaning, transforming, and analyzing the raw sales data.
+
 Power BI: Utilized for building the interactive and visually appealing dashboards.
