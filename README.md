@@ -4,17 +4,7 @@ This project is a comprehensive business intelligence solution designed to analy
 **Key Features and Insights**
 The dashboard is built to give a complete picture of the business's performance. It features a high-level summary of key metrics and a detailed breakdown of product performance.
 
-**Overall Sales Performance:** The main dashboard provides a snapshot of the business's health. It prominently displays key performance indicators (KPIs) like:
-
-**1. Total Revenue ($817.86K)**
-
-**2. Total Pizzas Sold (49,574)**
-
-**3. Total Orders (21,350)**
-
-**4. Average Order Value (AOV) ($38.31)**
-
-**5. Average Pizzas per Order (2.32)**
+**Overall Sales Performance:** The main dashboard provides a snapshot of the business's health. It prominently displays key performance indicators (KPIs).
 
 **Sales Trends:** Visualizations clearly show sales patterns over time. The "Daily Trend of Total Orders" highlights that orders are highest on Fridays and Saturdays, while the "Monthly Trend" indicates sales peak in January and July.
 
@@ -34,5 +24,3 @@ Technology Stack
 
 SQL: Used for cleaning, transforming, and analyzing the raw sales data.
 Power BI: Utilized for building the interactive and visually appealing dashboards.
-
-This project demonstrates skills in data analysis, data visualization, and business intelligence, turning raw data into valuable business insights.
